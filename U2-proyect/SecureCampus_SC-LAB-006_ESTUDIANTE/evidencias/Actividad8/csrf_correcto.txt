@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: Werkzeug/3.1.9 Python/3.14.8
+Date: Fri, 30 Oct 2026 14:35:00 GMT
+Content-Type: application/json
+Content-Length: 54
+Connection: close
+
+{"grade":"90","message":"Calificaci\u00f3n guardada"}

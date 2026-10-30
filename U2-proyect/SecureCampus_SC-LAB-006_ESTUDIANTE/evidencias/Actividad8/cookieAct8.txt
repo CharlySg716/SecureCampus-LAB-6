@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: Werkzeug/3.1.9 Python/3.14.8
+Date: Fri, 30 Oct 2026 14:33:25 GMT
+Content-Type: application/json
+Content-Length: 83
+Set-Cookie: sc_session=Amrr6ojRjjOz_J6OctBe2QpLkzSl5o30zX5i0K7v2Pc; Expires=Fri, 30 Oct 2026 15:03:25 GMT; Max-Age=1800; Secure; HttpOnly; Path=/; SameSite=Lax
+Connection: close
+
+{"csrf_token":"ka0cIasN3XtsKYM4_VkrUAfcfORf0ErT","message":"Sesi\u00f3n iniciada"}
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   138  100    83  100    55    660    437 --:--:-- --:--:-- --:--:--  1095

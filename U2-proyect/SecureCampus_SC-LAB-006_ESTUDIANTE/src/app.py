@@ -62,6 +62,6 @@ def create_app(db_path=None, testing=False):
     return app
 
 if __name__=='__main__':
-    from .db import seed_demo
-    seed_demo()
+   # from .db import seed_demo
+   # seed_demo()
     create_app().run(debug=False)
